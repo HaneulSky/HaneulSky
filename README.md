@@ -11,7 +11,7 @@
 
 
 --------------------------------
-[![codewars](https://www.codewars.com/users/HaneulSky/badges/large)](https://www.codewars.com/users/username)
+[![codewars](https://www.codewars.com/users/HaneulSky/badges/large)](https://www.codewars.com/users/HaneulSky)
 
 <!---
 HaneulSky/HaneulSky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
